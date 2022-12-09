@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DM%20-%20ing%20GitHub&fontSize=90)
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DM%20-%20ing%20GitHub&fontSize=90)
+### 배우는게 즐거운 예비개발자 김동명입니다. 👋
 
 **kdmyeong94/kdmyeong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
