@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DM%20-%20ing%20GitHub&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DM%20-%20ing%20GitHub&fontSize=90)
 ### Hi there 👋
 
 <div align=center>코리아IT아카데미에서 임베디드 소프트웨어 융합 풀스택 개발자 양성과정B 진행중입니다.</div>
 <div aling=center>프론트엔드와 백엔드 모두 잘하기 위해 노력중인 신입 개발자 입니다.</div>
+
 **kdmyeong94/kdmyeong94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
