@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DM%20-%20ing%20GitHub&fontSize=90)
-### 배우는게 즐거운 예비개발자 김동명입니다. 👋
+### Java, Mendix 개발자 김동명입니다. 👋
 
 <br><br>
 
-<div>코리아IT아카데미에서 임베디드 소프트웨어 융합 풀스택 개발자 양성과정B 진행중입니다.</div>
-<div>프론트엔드와 백엔드 모두 잘하기 위해 노력중인 신입 개발자 입니다.</div>
+<div>2022.12 코리아IT아카데미 자바스프링 풀스택과정 수료</div>
+<div>2023.01 Mendix Rapid 취득</div>
+<div>2023.02 Mendix Intermediate 취득</div>
+<div>2023.04 Mendix Advanced 취득</div>
 
 
 🛠 skill
